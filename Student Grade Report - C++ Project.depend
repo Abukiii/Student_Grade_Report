@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1548409695 source:c:\users\abuki\desktop\edited project\student grade report - c++ project\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<string.h>
+	<cstring>
+	<windows.h>
+
+1548867532 source:c:\users\abuki\desktop\abdi student grade report - c++ project\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	<cstring>
+	<windows.h>
+
+1548950244 source:c:\users\abuki\desktop\new folder (4)\student grade report - c++ project _version 2.0\student grade report - c++ project _version 2.0\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	<cstring>
+	<windows.h>
+
+1550172813 source:c:\users\abuki\desktop\finallll projeeect tooo send\student grade report - c++ project _version 2.0\group 4 - section a -student grade report - c++ project _version 2.0\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	<cstring>
+	<windows.h>
+

@@ -1,0 +1,100 @@
+ Student Grade Report Managing App Version 2.0
+ 		
+	User Manual
+
+There are two categories
+
+Enter the number that corresponds to them to use them.
+
+1.Student Category:-For student use.
+         :-It has three options and student can access them by using their ID. 
+
+	a. View Grade option.	Student can see their result from this option by using their ID. 
+			
+			*This catagory recieve Student ID and gives out student profile with result and GPA.
+	b. Ask A question option
+
+		:-If the student have question for the teacher he/she can use this platform to ask
+
+			*This catagory allows the student to ask the teacher a question using this plat 
+			 form by writing the input data to the comment file.
+
+	c. View question asked before option
+
+		:-View questions that are asked before and answer of the teacher
+
+			*This catagory allows the student to access the comment file and give an out put of the answer from the teacher.
+
+2.Teachers Category:-For teacher use only.
+                   :-It requires entrance password to protect it from other person or student.
+                   :-It has option to perform different tasks.
+
+
+Default Login Password = password123 (teacher can change it in change login password option.) 
+			*CASE SENSETIVE
+
+ 
+	a.Register A student  
+
+		:-Register or add students to the system
+
+		*this catagory recive Student Profile(ID, Name, Department, Section, Year of addmision) from the user.
+		*Also recive student result and save it in the data base
+
+	b.Update Student Profile
+ 		It has two sub options.  
+
+			1.Edit:-To edit student profile that already registered.
+				*this catagory revieve studednt Id, gives out the profile of the student with the input Id and allow to edit it.
+
+			2.Delete:-To delete selected student profile.
+				*this catagory revieve studednt Id, gives out the profile of the student with the input Id and allow to delete it.
+
+	c.View Students Profile.
+
+		It has two sub options.
+
+			1.all student profile:-To see profile of all students all together.
+
+
+			2.single student profile:-To see only profile of single student by using his\her ID
+				*this catagory recieve studednt Id, gives out the profile of the student with grade and GPA.
+
+	d.View Students question
+
+		The teacher can see questions raised from the students from this option
+
+		*this catagory gives an out put of students question to the teacher from the comment file.
+
+
+	e.Give an answer for students question
+
+		The teacher can give answer for the questions raised from the students
+
+		*this catagory allows the teacher to answer the questions asked from the student by writing it on the comment file.
+
+	f.Change Login Password
+
+		Teacher can change user password from this option
+
+		*this catagory helps the teacher to change login password by changing the text in the password file.
+
+
+Section A
+
+
+
+                           |     NAME                          ID                  |
+                           |   1. Abubeker Abdu = = = = = =  0067/10               |
+                           |   2. Abenezer Alemayehu = = = = 0041/10               |
+                           |   3. Abduletif  Seid = = = = =  0016/10               |
+                           |   4. Abdurzak Kameli = = = = =  0024/10               |
+                           |   5. Abdi Tiruneh = = = = = = = 0013/10               |
+                           |   6. Alazar Dinberu = = = = = = 0089/10               |
+
+
+
+
+
+
+
